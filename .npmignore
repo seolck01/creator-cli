@@ -1,0 +1,7 @@
+node_modules/
+template/
+create.config.js
+idea
+.vscode
+.gitignore
+.git
